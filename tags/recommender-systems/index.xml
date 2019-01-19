@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommender Systems on Alessandro Suglia</title>
+    <link>https://alesuglia.github.io/tags/recommender-systems/</link>
+    <description>Recent content in Recommender Systems on Alessandro Suglia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alesuglia.github.io/tags/recommender-systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ask Me Any Rating: A Content-based Recommender System based on Recurrent Neural Networks</title>
+      <link>https://alesuglia.github.io/projects/amar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/projects/amar/</guid>
+      <description>In this work we propose Ask Me Any Rating (AMAR), a novel content-based recommender system based on deep neural networks which is able to produce top-N recommendations leveraging user and item embeddings which are learnt from textual information describing the items.
+A comprehensive experimental evaluation conducted on state of-the-art datasets such as MovieLens 1M and DBbook showed a significant improvement over all the baselines taken into account.
+You can find more details about our approach in two of our papers:</description>
+    </item>
+    
+    <item>
+      <title>Iterative Multi-document Neural Attention for Multiple Answer Prediction</title>
+      <link>https://alesuglia.github.io/projects/imnamap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/projects/imnamap/</guid>
+      <description>People have information needs of varying complexity, which can be solved by an intelligent agent able to answer questions formulated in a proper way, eventually considering user context and preferences. In a scenario in which the user profile can be considered as a question, intelligent agents able to answer questions can be used to find the most relevant answers for a given user.
+In this work we propose a novel model based on Artificial Neural Networks to answer questions with multiple answers by exploiting multiple facts retrieved from a knowledge base.</description>
+    </item>
+    
+    <item>
+      <title>Schema-aware Translating Embeddings model</title>
+      <link>https://alesuglia.github.io/projects/schema_transe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/projects/schema_transe/</guid>
+      <description>We implemented a Torch Deep Learning model able to learn Knowledge Graph embeddings from knowledge base triples. We modified the original negative sampling procedure presented in the paper Translating Embeddings for Modeling Multi-relational Data by incorporating constraints derived from the Ontology schema in order to learn more effective and expressive representations.
+https://github.com/aleSuglia/schema-transe</description>
+    </item>
+    
+    <item>
+      <title>An automatic procedure for generating datasets for conversational recommender systems</title>
+      <link>https://alesuglia.github.io/publications/convrecsys/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/publications/convrecsys/</guid>
+      <description>Conversational Recommender Systems assist online users in their information-seeking and decision making tasks by supporting an interactive process with the aim of finding the most appealing items according to the user preferences. Unfortunately, collecting dialogues data to train these systems can be labour-intensive, especially for data-hungry Deep Learning models. Therefore, we propose an automatic procedure able to generate plausible dialogues from recommender systems datasets.</description>
+    </item>
+    
+    <item>
+      <title>Converse-Et-Impera: Exploiting Deep Learning and Hierarchical Reinforcement Learning for Conversational Recommender Systems</title>
+      <link>https://alesuglia.github.io/publications/cei/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/publications/cei/</guid>
+      <description>In this paper, we propose a framework based on Hierarchical Reinforcement Learning for dialogue management in a Conversational Recommender System scenario. The framework splits the dialogue into more manageable tasks whose achievement corresponds to goals of the dialogue with the user. The framework consists of a meta-controller, which receives the user utterance and understands which goal should pursue, and a controller, which exploits a goal-specific representation to generate an answer composed by a sequence of tokens.</description>
+    </item>
+    
+    <item>
+      <title>A deep architecture for content-based recommendations exploiting recurrent neural networks</title>
+      <link>https://alesuglia.github.io/publications/amar/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/publications/amar/</guid>
+      <description>In this paper we investigate the effectiveness of Recurrent Neural Networks (RNNs) in a top-N content-based recommendation scenario. Specifically, we propose a deep architecture which adopts Long Short Term Memory (LSTM) networks to jointly learn two embeddings representing the items to be recommended as well as the preferences of the user. Next, given such a representation, a logistic regression layer calculates the relevance score of each item for a specific user and we returns the top-N items as recommendations.</description>
+    </item>
+    
+  </channel>
+</rss>

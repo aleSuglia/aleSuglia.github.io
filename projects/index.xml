@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Alessandro Suglia</title>
+    <link>https://alesuglia.github.io/projects/</link>
+    <description>Recent content in Projects on Alessandro Suglia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://alesuglia.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alexa Prize Challenge 2018</title>
+      <link>https://alesuglia.github.io/projects/alexa_prize_2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/projects/alexa_prize_2018/</guid>
+      <description>Contributed to the design of the conversational agent architecture and communication protocol. Designed the NLU pipeline composed of several state of the art NLP components for Named Entity Recognition, Entity Linking and Sentiment Analysis. In addition, the pipeline leverages an intent classifier based on a Deep Learning model trained on real conversations collected during the 2018 competitions. Responsible for the development of several bots able to retrieve information from Wikidata, Wikipedia and news articles.</description>
+    </item>
+    
+    <item>
+      <title>Ask Me Any Rating: A Content-based Recommender System based on Recurrent Neural Networks</title>
+      <link>https://alesuglia.github.io/projects/amar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/projects/amar/</guid>
+      <description>In this work we propose Ask Me Any Rating (AMAR), a novel content-based recommender system based on deep neural networks which is able to produce top-N recommendations leveraging user and item embeddings which are learnt from textual information describing the items.
+A comprehensive experimental evaluation conducted on state of-the-art datasets such as MovieLens 1M and DBbook showed a significant improvement over all the baselines taken into account.
+You can find more details about our approach in two of our papers:</description>
+    </item>
+    
+    <item>
+      <title>Contribution to the AllenNLP project</title>
+      <link>https://alesuglia.github.io/projects/allennlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/projects/allennlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Dialog bAbI&#43; dataset in ParlAI</title>
+      <link>https://alesuglia.github.io/projects/parlai_babi_plus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/projects/parlai_babi_plus/</guid>
+      <description>The aim of the present pull-request is to add a new world in ParlAI based on the recently proposed dataset bAbI+. bAbI+ is an extension of the bAbI Task 1 dialogues with everyday incremental dialogue phenomena (hesitations, restarts, and corrections) which model the disfluencies and communication problems in everyday spoken interaction in real-world environments. See [1], [2] for additional information about the dataset.</description>
+    </item>
+    
+    <item>
+      <title>Iterative Multi-document Neural Attention for Multiple Answer Prediction</title>
+      <link>https://alesuglia.github.io/projects/imnamap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/projects/imnamap/</guid>
+      <description>People have information needs of varying complexity, which can be solved by an intelligent agent able to answer questions formulated in a proper way, eventually considering user context and preferences. In a scenario in which the user profile can be considered as a question, intelligent agents able to answer questions can be used to find the most relevant answers for a given user.
+In this work we propose a novel model based on Artificial Neural Networks to answer questions with multiple answers by exploiting multiple facts retrieved from a knowledge base.</description>
+    </item>
+    
+    <item>
+      <title>Schema-aware Translating Embeddings model</title>
+      <link>https://alesuglia.github.io/projects/schema_transe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/projects/schema_transe/</guid>
+      <description>We implemented a Torch Deep Learning model able to learn Knowledge Graph embeddings from knowledge base triples. We modified the original negative sampling procedure presented in the paper Translating Embeddings for Modeling Multi-relational Data by incorporating constraints derived from the Ontology schema in order to learn more effective and expressive representations.
+https://github.com/aleSuglia/schema-transe</description>
+    </item>
+    
+  </channel>
+</rss>

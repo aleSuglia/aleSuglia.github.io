@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning on Alessandro Suglia</title>
+    <link>https://alesuglia.github.io/tags/reinforcement-learning/</link>
+    <description>Recent content in Reinforcement Learning on Alessandro Suglia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alesuglia.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An automatic procedure for generating datasets for conversational recommender systems</title>
+      <link>https://alesuglia.github.io/publications/convrecsys/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/publications/convrecsys/</guid>
+      <description>Conversational Recommender Systems assist online users in their information-seeking and decision making tasks by supporting an interactive process with the aim of finding the most appealing items according to the user preferences. Unfortunately, collecting dialogues data to train these systems can be labour-intensive, especially for data-hungry Deep Learning models. Therefore, we propose an automatic procedure able to generate plausible dialogues from recommender systems datasets.</description>
+    </item>
+    
+    <item>
+      <title>Converse-Et-Impera: Exploiting Deep Learning and Hierarchical Reinforcement Learning for Conversational Recommender Systems</title>
+      <link>https://alesuglia.github.io/publications/cei/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/publications/cei/</guid>
+      <description>In this paper, we propose a framework based on Hierarchical Reinforcement Learning for dialogue management in a Conversational Recommender System scenario. The framework splits the dialogue into more manageable tasks whose achievement corresponds to goals of the dialogue with the user. The framework consists of a meta-controller, which receives the user utterance and understands which goal should pursue, and a controller, which exploits a goal-specific representation to generate an answer composed by a sequence of tokens.</description>
+    </item>
+    
+  </channel>
+</rss>

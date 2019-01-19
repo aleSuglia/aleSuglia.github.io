@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexa on Alessandro Suglia</title>
+    <link>https://alesuglia.github.io/tags/alexa/</link>
+    <description>Recent content in Alexa on Alessandro Suglia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alesuglia.github.io/tags/alexa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entertaining and Informative Open-domain Social Dialogue using Ontologies and Entity Linking</title>
+      <link>https://alesuglia.github.io/publications/alexa_prize_2018/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/publications/alexa_prize_2018/</guid>
+      <description>We describe our 2018 Alexa prize system (called ‘Alana’) which consists of an ensemble of bots, combining rule-based and machine learning systems. This paper reports on the version of the system developed and evaluated in the semifinals of the 2018 competition (i.e. up to 15 August 2018), but not on subsequent enhancements. The main advances over our 2017 Alana system are:
+ a deeper Natural Language Understanding (NLU) pipeline; the use of topic ontologies and Named Entity Linking to enable the user to navigate and search through a web of related information; rendering Alana in part an interactive NL interface to linked information on the web; system generated clarification questions to interactively disambiguate between Named Entities as part of NLU; a new profanity &amp;amp; abuse detection model with rule-based mitigation strategies; response retrieval from Reddit.</description>
+    </item>
+    
+  </channel>
+</rss>

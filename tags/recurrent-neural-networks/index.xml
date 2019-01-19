@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recurrent Neural Networks on Alessandro Suglia</title>
+    <link>https://alesuglia.github.io/tags/recurrent-neural-networks/</link>
+    <description>Recent content in Recurrent Neural Networks on Alessandro Suglia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alesuglia.github.io/tags/recurrent-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A deep architecture for content-based recommendations exploiting recurrent neural networks</title>
+      <link>https://alesuglia.github.io/publications/amar/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/publications/amar/</guid>
+      <description>In this paper we investigate the effectiveness of Recurrent Neural Networks (RNNs) in a top-N content-based recommendation scenario. Specifically, we propose a deep architecture which adopts Long Short Term Memory (LSTM) networks to jointly learn two embeddings representing the items to be recommended as well as the preferences of the user. Next, given such a representation, a logistic regression layer calculates the relevance score of each item for a specific user and we returns the top-N items as recommendations.</description>
+    </item>
+    
+  </channel>
+</rss>

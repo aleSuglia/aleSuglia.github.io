@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>Iterative multi-document neural attention for multiple answer prediction</title>
-      <link>https://alesuglia.github.io/publications/imnamap/</link>
-      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://alesuglia.github.io/publications/imnamap/</guid>
-      <description>People have information needs of varying complexity, which can be solved by an intelligent agent able to answer questions formulated in a proper way, eventually considering user context and preferences. In a scenario in which the user profile can be considered as a question, intelligent agents able to answer questions can be used to find the most relevant answers for a given user. In this work we propose a novel model based on Artificial Neural Networks to answer questions with multiple answers by exploiting multiple facts retrieved from a knowledge base.</description>
-    </item>
-    
-    <item>
       <title>An automatic procedure for generating datasets for conversational recommender systems</title>
       <link>https://alesuglia.github.io/publications/convrecsys/</link>
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
@@ -55,6 +46,15 @@
       
       <guid>https://alesuglia.github.io/publications/amar/</guid>
       <description>In this paper we investigate the effectiveness of Recurrent Neural Networks (RNNs) in a top-N content-based recommendation scenario. Specifically, we propose a deep architecture which adopts Long Short Term Memory (LSTM) networks to jointly learn two embeddings representing the items to be recommended as well as the preferences of the user. Next, given such a representation, a logistic regression layer calculates the relevance score of each item for a specific user and we returns the top-N items as recommendations.</description>
+    </item>
+    
+    <item>
+      <title>Iterative multi-document neural attention for multiple answer prediction</title>
+      <link>https://alesuglia.github.io/publications/imnamap/</link>
+      <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/publications/imnamap/</guid>
+      <description>People have information needs of varying complexity, which can be solved by an intelligent agent able to answer questions formulated in a proper way, eventually considering user context and preferences. In a scenario in which the user profile can be considered as a question, intelligent agents able to answer questions can be used to find the most relevant answers for a given user. In this work we propose a novel model based on Artificial Neural Networks to answer questions with multiple answers by exploiting multiple facts retrieved from a knowledge base.</description>
     </item>
     
   </channel>

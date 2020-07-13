@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Alessandro Suglia</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Alessandro Suglia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alesuglia.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CompGuessWhat?!: A Multi-task Evaluation Framework for Grounded Language Learning</title>
+      <link>https://alesuglia.github.io/publications/compguesswhat/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/publications/compguesswhat/</guid>
+      <description>Approaches to Grounded Language Learning are commonly focused on a single task-based final performance measure which may not depend on desirable properties of the learned hidden representations, such as their ability to predict object attributes or generalize to unseen situations. To remedy this, we present GroLLA, an evaluation framework for Grounded Language Learning with Attributes based on three sub-tasks: 1) Goal-oriented evaluation; 2) Object attribute prediction evaluation; and 3) Zero-shot evaluation.</description>
+    </item>
     
     <item>
       <title>Entertaining and Informative Open-domain Social Dialogue using Ontologies and Entity Linking</title>

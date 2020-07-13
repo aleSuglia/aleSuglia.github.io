@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Alessandro Suglia</title>
@@ -46,7 +46,7 @@ You can find more details about our approach in two of our papers:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alesuglia.github.io/projects/parlai_babi_plus/</guid>
-      <description>The aim of the present pull-request is to add a new world in ParlAI based on the recently proposed dataset bAbI+. bAbI+ is an extension of the bAbI Task 1 dialogues with everyday incremental dialogue phenomena (hesitations, restarts, and corrections) which model the disfluencies and communication problems in everyday spoken interaction in real-world environments. See [1], [2] for additional information about the dataset.</description>
+      <description>The aim of the present pull-request is to add a new world in ParlAI based on the recently proposed dataset bAbI+. bAbI+ is an extension of the bAbI Task 1 dialogues with everyday incremental dialogue phenomena (hesitations, restarts, and corrections) which model the disfluencies and communication problems in everyday spoken interaction in real-world environments. See [1], [2]for additional information about the dataset.</description>
     </item>
     
     <item>
@@ -65,8 +65,17 @@ In this work we propose a novel model based on Artificial Neural Networks to ans
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alesuglia.github.io/projects/schema_transe/</guid>
-      <description>We implemented a Torch Deep Learning model able to learn Knowledge Graph embeddings from knowledge base triples. We modified the original negative sampling procedure presented in the paper Translating Embeddings for Modeling Multi-relational Data by incorporating constraints derived from the Ontology schema in order to learn more effective and expressive representations.
+      <description>We implemented a Torch Deep Learning model able to learn Knowledge Graph embeddings from knowledge base triples. We modified the original negative sampling procedure presented in the paper Translating Embeddings for Modeling Multi-relational Databy incorporating constraints derived from the Ontology schema in order to learn more effective and expressive representations.
 https://github.com/aleSuglia/schema-transe</description>
+    </item>
+    
+    <item>
+      <title>CompGuessWhat?!: A Multi-task Evaluation Framework for Grounded Language Learning</title>
+      <link>https://alesuglia.github.io/publications/compguesswhat/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alesuglia.github.io/publications/compguesswhat/</guid>
+      <description>Approaches to Grounded Language Learning are commonly focused on a single task-based final performance measure which may not depend on desirable properties of the learned hidden representations, such as their ability to predict object attributes or generalize to unseen situations. To remedy this, we present GroLLA, an evaluation framework for Grounded Language Learning with Attributes based on three sub-tasks: 1) Goal-oriented evaluation; 2) Object attribute prediction evaluation; and 3) Zero-shot evaluation.</description>
     </item>
     
     <item>

@@ -5,11 +5,7 @@
     <link>https://alesuglia.github.io/projects/</link>
     <description>Recent content in Projects on Alessandro Suglia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://alesuglia.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://alesuglia.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alexa Prize Challenge 2018</title>
       <link>https://alesuglia.github.io/projects/alexa_prize_2018/</link>
